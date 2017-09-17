@@ -1,0 +1,419 @@
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\Button.xnb
+E:\old hard\инст\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver16.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 17.11\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 17.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 18.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\hint.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\hint.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\stop.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 19.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\hint.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\stop.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\MenuFont.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\rplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 23.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\rplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\rplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 24.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\rplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 28.11 LAST\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\rplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\gplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 01.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\vplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\gplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\vplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 02.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\gplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\vplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\gplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\vplane.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+E:\old hard\инст\Игра курс\Игра курс ver 03.12\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\endgame.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\bowlingball.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\gplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\vplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\endgame.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 06.12 work\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.exe
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.pdb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\gplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\vplane.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\endgame.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb
+C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\Bullizen.csprojResolveAssemblyReference.cache

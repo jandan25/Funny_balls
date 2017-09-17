@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameObjText\plane.png</Source>
+      <Name>GameObjText\plane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\plane.xnb</Output>
+      <Time>2015-12-02T23:50:13.8984861+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\revplane.png</Source>
+      <Name>GameObjText\revplane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\revplane.xnb</Output>
+      <Time>2015-12-09T18:43:06.6834822+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\button.png</Source>
+      <Name>GameObjText\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\button.xnb</Output>
+      <Time>2015-12-01T21:38:13.9115307+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GuiText\start.png</Source>
+      <Name>GuiText\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\start.xnb</Output>
+      <Time>2015-11-24T19:27:19.3855634+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\SoccerBall.png</Source>
+      <Name>GameObjText\SoccerBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\SoccerBall.xnb</Output>
+      <Time>2015-12-07T09:20:50.9533861+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\TennisBall.png</Source>
+      <Name>GameObjText\TennisBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\TennisBall.xnb</Output>
+      <Time>2015-11-17T10:52:31.7524783+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\endblock.png</Source>
+      <Name>GameObjText\endblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\endblock.xnb</Output>
+      <Time>2015-12-01T20:28:43.0454654+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GuiText\hint.png</Source>
+      <Name>GuiText\hint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\hint.xnb</Output>
+      <Time>2015-11-24T19:28:18.233074+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GuiText\stop.png</Source>
+      <Name>GuiText\stop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GuiText\stop.xnb</Output>
+      <Time>2015-11-24T19:27:52.3301097+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\star.png</Source>
+      <Name>GameObjText\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\star.xnb</Output>
+      <Time>2015-11-24T18:57:17.1601858+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\level1.jpg</Source>
+      <Name>LevelText\level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level1.xnb</Output>
+      <Time>2015-11-24T22:53:26.9318477+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\Menu.jpg</Source>
+      <Name>LevelText\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\Menu.xnb</Output>
+      <Time>2015-12-10T18:13:39.4183901+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\level3.jpg</Source>
+      <Name>LevelText\level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level3.xnb</Output>
+      <Time>2015-12-01T20:56:47.4090499+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\level4.jpg</Source>
+      <Name>LevelText\level4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level4.xnb</Output>
+      <Time>2015-12-01T20:56:47.4120502+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\level5.jpg</Source>
+      <Name>LevelText\level5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level5.xnb</Output>
+      <Time>2015-12-01T20:56:47.4150499+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\level2.jpg</Source>
+      <Name>LevelText\level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\level2.xnb</Output>
+      <Time>2015-11-24T23:19:35.2863037+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\jumpbutton.png</Source>
+      <Name>GameObjText\jumpbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\jumpbutton.xnb</Output>
+      <Time>2015-12-01T21:44:39.7010903+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\gplane.png</Source>
+      <Name>GameObjText\gplane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\gplane.xnb</Output>
+      <Time>2015-12-02T13:02:51.2906708+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjText\vplane.png</Source>
+      <Name>GameObjText\vplane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\GameObjText\vplane.xnb</Output>
+      <Time>2015-12-01T21:49:07.2497447+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\endgame.jpg</Source>
+      <Name>LevelText\endgame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\endgame.xnb</Output>
+      <Time>2015-12-10T18:17:28.467118+03:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelText\MenuFont.spritefont</Source>
+      <Name>LevelText\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\LevelText\MenuFont.xnb</Output>
+      <Time>2015-12-10T18:08:27.2806822+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{BC089F49-B4BA-4A94-913D-B3477E6F1283}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\BullizenContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Admin\Desktop\Игра курс\Игра курс ver 08.12 last\Bullizen\Bullizen\Bullizen\Bullizen\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-16T08:59:08.9289995+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
